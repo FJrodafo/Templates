@@ -6,13 +6,16 @@
 ## Index
 
 1. [Introduction](#introduction)
-2. [Clone the repository](#clone-the-repository)
+2. [Project structure](#project-structure)
+3. [Clone the repository](#clone-the-repository)
 
 ## Introduction
 
 My template repository!
 
 This project has been developed on a [Linux](https://github.com/torvalds/linux) system. To learn more about the system, visit the [Dotfiles](https://github.com/FJrodafo/Dotfiles) repository.
+
+## Project structure
 
 ```
 /
@@ -24,11 +27,9 @@ This project has been developed on a [Linux](https://github.com/torvalds/linux) 
 |   ├── workflows/
 |   |   ├── releases.yaml
 |   |   └── templates.yaml
-|   ├── CODE_OF_CONDUCT.md
 |   ├── CODEOWNERS
 |   ├── FUNDING.yaml
-|   ├── PULL_REQUEST_TEMPLATE.md
-|   └── SECURITY.md
+|   └── PULL_REQUEST_TEMPLATE.md
 ├── .vscode/
 |   ├── extensions.json
 |   └── settings.json
@@ -36,7 +37,9 @@ This project has been developed on a [Linux](https://github.com/torvalds/linux) 
 |   └── repository-open-graph-template.png
 ├── docs/
 |   ├── _config.yaml
-|   └── README.md
+|   ├── CODE_OF_CONDUCT.md
+|   ├── README.md
+|   └── SECURITY.md
 ├── releases/
 |   ├── */
 |   |   ├── *.tar.gz
