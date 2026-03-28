@@ -1,7 +1,7 @@
 # Templates
 
-[![GitHub Pages](https://img.shields.io/badge/%20-white?style=social&logo=githubpages&logoColor=black&logoSize=auto)](https://fjrodafo.github.io/Templates/)
-[![GitHub Stars](https://img.shields.io/github/stars/FJrodafo/Templates?style=social&logo=github&logoColor=black&label=Stars&labelColor=white&color=white)](https://github.com/FJrodafo/Templates/stargazers)
+[![GitHub Pages](https://img.shields.io/badge/%20-FFFFFF?style=social&logo=githubpages&logoColor=black&logoSize=auto)](https://fjrodafo.github.io/Templates/)
+[![GitHub Stars](https://img.shields.io/github/stars/FJrodafo/Templates?style=social&logo=github&logoColor=black&label=Stars&labelColor=FFFFFF&color=FFFFFF)](https://github.com/FJrodafo/Templates/stargazers)
 
 ## Index
 
