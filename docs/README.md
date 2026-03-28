@@ -1,1 +1,65 @@
 # Templates
+
+[![GitHub Pages](https://img.shields.io/badge/%20-white?style=social&logo=githubpages&logoColor=black&logoSize=auto)](https://fjrodafo.github.io/Templates/)
+[![GitHub Stars](https://img.shields.io/github/stars/FJrodafo/Templates?style=social&logo=github&logoColor=black&label=Stars&labelColor=white&color=white)](https://github.com/FJrodafo/Templates/stargazers)
+
+## Index
+
+1. [Introduction](#introduction)
+2. [Clone the repository](#clone-the-repository)
+
+## Introduction
+
+My template repository!
+
+This project has been developed on a [Linux](https://github.com/torvalds/linux) system. To learn more about the system, visit the [Dotfiles](https://github.com/FJrodafo/Dotfiles) repository.
+
+```
+/
+├── .github/
+|   ├── ISSUE_TEMPLATE/
+|   |   ├── bug_report.yaml
+|   |   ├── config.yaml
+|   |   └── feature_request.yaml
+|   ├── workflows/
+|   |   ├── releases.yaml
+|   |   └── templates.yaml
+|   ├── CODE_OF_CONDUCT.md
+|   ├── CODEOWNERS
+|   ├── FUNDING.yaml
+|   ├── PULL_REQUEST_TEMPLATE.md
+|   └── SECURITY.md
+├── .vscode/
+|   ├── extensions.json
+|   └── settings.json
+├── assets/
+|   └── repository-open-graph-template.png
+├── docs/
+|   ├── _config.yaml
+|   └── README.md
+├── releases/
+|   ├── */
+|   |   ├── *.tar.gz
+|   |   └── *.zip
+|   ├── CHANGELOG.md
+|   └── VERSION.md
+├── .gitattributes
+├── .gitignore
+├── CONTRIBUTING
+├── LICENSE
+└── TODO.md
+```
+
+## Clone the repository
+
+Open a terminal in the directory where you store your repositories and clone it with the following command:
+
+```shell
+# HTTPS
+git clone https://github.com/FJrodafo/Templates.git
+```
+
+```shell
+# SSH
+git clone git@github.com:FJrodafo/Templates.git
+```
