@@ -20,20 +20,6 @@ This project has been developed on a [Linux](https://github.com/torvalds/linux) 
 
 ```
 /
-├── .github/
-|   ├── ISSUE_TEMPLATE/
-|   |   ├── bug_report.yaml
-|   |   ├── config.yaml
-|   |   └── feature_request.yaml
-|   ├── workflows/
-|   |   ├── releases.yaml
-|   |   └── templates.yaml
-|   ├── CODEOWNERS
-|   ├── FUNDING.yaml
-|   └── PULL_REQUEST_TEMPLATE.md
-├── .vscode/
-|   ├── extensions.json
-|   └── settings.json
 ├── assets/
 |   └── repository-open-graph-template.png
 ├── docs/
@@ -41,17 +27,8 @@ This project has been developed on a [Linux](https://github.com/torvalds/linux) 
 |   ├── CODE_OF_CONDUCT.md
 |   ├── README.md
 |   └── SECURITY.md
-├── releases/
-|   ├── */
-|   |   ├── *.tar.gz
-|   |   └── *.zip
-|   ├── CHANGELOG.md
-|   └── VERSION.md
-├── .gitattributes
-├── .gitignore
 ├── CONTRIBUTING
-├── LICENSE
-└── TODO.md
+└── LICENSE
 ```
 
 ## Clone the repository
