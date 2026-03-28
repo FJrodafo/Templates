@@ -8,6 +8,7 @@
 1. [Introduction](#introduction)
 2. [Project structure](#project-structure)
 3. [Clone the repository](#clone-the-repository)
+4. [Resources](#resources)
 
 ## Introduction
 
@@ -66,3 +67,13 @@ git clone https://github.com/FJrodafo/Templates.git
 # SSH
 git clone git@github.com:FJrodafo/Templates.git
 ```
+
+## Resources
+
+[GitHub Docs](https://docs.github.com/en)
+·
+[GitHub Actions](https://docs.github.com/en/actions)
+·
+[GitHub Packages](https://docs.github.com/en/packages)
+·
+[GitHub Pages](https://docs.github.com/en/pages)
