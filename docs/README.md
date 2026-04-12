@@ -23,10 +23,12 @@ This project has been developed on a [Linux](https://github.com/torvalds/linux) 
 ├── assets/
 |   └── repository-open-graph-template.png
 ├── docs/
-|   ├── _config.yaml
-|   ├── CODE_OF_CONDUCT.md
-|   ├── README.md
-|   └── SECURITY.md
+|   └── *.md
+├── examples/
+|   ├── Dockerfile
+|   ├── main.py
+|   ├── script.sh
+|   └── settings.conf
 ├── CONTRIBUTING
 └── LICENSE
 ```
