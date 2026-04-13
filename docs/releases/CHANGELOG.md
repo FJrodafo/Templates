@@ -13,6 +13,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ### Changed
 
 - The TODO.md and release documents were moved to the docs directory.
+- `git archive` to compress files in the release workflow.
 
 ### Deprecated
 
