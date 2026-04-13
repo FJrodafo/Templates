@@ -40,11 +40,13 @@ Open a terminal in the directory where you store your repositories and clone it 
 ```shell
 # HTTPS
 git clone https://github.com/FJrodafo/Templates.git
+cd Templates/
 ```
 
 ```shell
 # SSH
 git clone git@github.com:FJrodafo/Templates.git
+cd Templates/
 ```
 
 ## Resources
